@@ -1,5 +1,6 @@
 # ananya_
 devops practice
 my first project
-file name
+git add<file>
+git restore<file>
 
